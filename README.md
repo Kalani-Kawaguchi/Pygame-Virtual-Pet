@@ -12,7 +12,7 @@
 
 The 'pet' is a circle that has some values, the most important being its **Health** and **Happiness**.<br>
 **Health** of the 'pet' corresponds to the pet's size. The larger the pet is, the healthier the pet is.<br>
-**Happiness** of the 'pet' corresponds to the pet's color. The more green the pet is, the happier the is.<br>
+**Happiness** of the 'pet' corresponds to the pet's color. The more green the pet is, the happier the pet is.<br>
 
 <br>
 
